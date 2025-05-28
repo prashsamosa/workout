@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/melkeydev/femProject/internal/store"
-	"github.com/melkeydev/femProject/internal/tokens"
-	"github.com/melkeydev/femProject/internal/utils"
+	"github.com/prashsamosa/workout/internal/store"
+	"github.com/prashsamosa/workout/internal/tokens"
+	"github.com/prashsamosa/workout/internal/utils"
 )
 
 type UserMiddleware struct {

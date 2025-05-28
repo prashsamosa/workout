@@ -3,10 +3,11 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/melkeydev/femProject/internal/app"
-	"github.com/melkeydev/femProject/internal/routes"
 	"net/http"
 	"time"
+
+	"github.com/prashsamosa/workout/internal/app"
+	"github.com/prashsamosa/workout/internal/routes"
 )
 
 func main() {

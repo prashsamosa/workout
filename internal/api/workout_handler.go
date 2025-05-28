@@ -10,9 +10,9 @@ import (
 	"strconv"
 
 	"github.com/go-chi/chi/v5"
-	"github.com/melkeydev/femProject/internal/middleware"
-	"github.com/melkeydev/femProject/internal/store"
-	"github.com/melkeydev/femProject/internal/utils"
+	"github.com/prashsamosa/workout/internal/middleware"
+	"github.com/prashsamosa/workout/internal/store"
+	"github.com/prashsamosa/workout/internal/utils"
 )
 
 type WorkoutHandler struct {

@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"regexp"
 
-	"github.com/melkeydev/femProject/internal/store"
-	"github.com/melkeydev/femProject/internal/utils"
+	"github.com/prashsamosa/workout/internal/store"
+	"github.com/prashsamosa/workout/internal/utils"
 )
 
 type registerUserRequest struct {

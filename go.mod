@@ -1,4 +1,4 @@
-module github.com/melkeydev/femProject
+module github.com/prashsamosa/workout
 
 go 1.23.2
 

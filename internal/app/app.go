@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/melkeydev/femProject/internal/api"
-	"github.com/melkeydev/femProject/internal/middleware"
-	"github.com/melkeydev/femProject/internal/store"
-	"github.com/melkeydev/femProject/migrations"
+	"github.com/prashsamosa/workout/internal/api"
+	"github.com/prashsamosa/workout/internal/middleware"
+	"github.com/prashsamosa/workout/internal/store"
+	"github.com/prashsamosa/workout/migrations"
 )
 
 type Application struct {
